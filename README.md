@@ -90,15 +90,5 @@ The initiative connects students to real-world projects, encouraging innovation 
 
 ---
 
-## Tecnologias Utilizadas / Technologies Used  
-
-| Frontend | Backend | Infraestrutura |
-|-----------|----------|----------------|
-| Vue.js | Node.js | Render |
-| TailwindCSS | Express | GitHub |
-| Axios | MongoDB | Docker |
-
----
-
 **2025 — FabricaPainel**  
 _Instituto Federal Catarinense – Campus Araquari_  
