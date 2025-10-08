@@ -1,10 +1,8 @@
 # Painel de Integração de Conhecimentos – IFC Araquari  
 
-### README Bilíngue (Português / English)
-
 ---
 
-## Sobre o Projeto  
+## Sobre o Projeto   
 Este repositório contém o frontend da aplicação voltada ao gerenciamento de submissões e avaliação de trabalhos apresentados no Painel de Integração de Conhecimentos do Instituto Federal Catarinense – Campus Araquari.  
 A aplicação foi desenvolvida para facilitar o acompanhamento e a análise das atividades acadêmicas, oferecendo uma interface intuitiva, moderna e eficiente para avaliadores e participantes.  
 
